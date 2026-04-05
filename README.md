@@ -14,3 +14,4 @@ contract TextStorage {
         message = _newMessage;
     }
 }
+Add new smart contract
