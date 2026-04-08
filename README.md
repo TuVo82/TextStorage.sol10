@@ -17,3 +17,4 @@ contract TextStorage {
 Add new smart contract
 Fix edge case handling
 Finalize contract structure
+Add basic validation
